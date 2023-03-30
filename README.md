@@ -12,5 +12,5 @@
 
 🦋 If you use structure, you have to use TABLE and ENDSELECT, you can use WRITE keyword
 
-🦋 Call display method to show the table
+🦋 If you use table, you can use Call display method to show the table, you do not have to use ENDSELECT
 
